@@ -23,14 +23,42 @@ public class Player : MonoBehaviour
 	{
 	
 		anim.SetBool("Grounded", grounded);
-		anim.SetFloat("Speed", Mathf.Abs(Input.GetAxis("Horizontal")));
+		anim.SetFloat("Speed", Mathf.Abs(rb2d.velocity.x));
+
+		if (Input.GetAxis ("Horizontal") < -0.1f) 
+		{
+			transform.localScale = new Vector3(-1, 1, 1);
+		}
+
+		if (Input.GetAxis ("Horizontal") > 0.1f) 
+		{
+			transform.localScale = new Vector3(1, 1, 1);
+		}
+
+		if (Input.GetButtonDown ("Jump") && grounded)
+		{
+			rb2d.AddForce(Vector2.up * jumpPower);
+		}
 
 	}
 
 
 	void FixedUpdate()
 	{
+		Vector3 easeVelocity = rb2d.velocity;
+		easeVelocity.y = rb2d.velocity.y;
+		easeVelocity.z = 0.0f;
+		easeVelocity.x *= 0.75f;
+
 		float h = Input.GetAxis("Horizontal");
+
+		//Fake Friction / Easing the x speed of the player
+
+		if (grounded)
+		{
+			rb2d.velocity = easeVelocity;
+
+		}
 
 		//Moving the player.
 		rb2d.AddForce((Vector2.right * speed) * h);
