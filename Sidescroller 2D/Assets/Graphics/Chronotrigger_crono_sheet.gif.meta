@@ -1,0 +1,2824 @@
+fileFormatVersion: 2
+guid: 05190c79cdfef9f4d82454bc6591aa5f
+timeCreated: 1456873560
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Chronotrigger_crono_sheet_0
+    21300002: Chronotrigger_crono_sheet_1
+    21300004: Chronotrigger_crono_sheet_2
+    21300006: Chronotrigger_crono_sheet_3
+    21300008: Chronotrigger_crono_sheet_4
+    21300010: Chronotrigger_crono_sheet_5
+    21300012: Chronotrigger_crono_sheet_6
+    21300014: Chronotrigger_crono_sheet_7
+    21300016: Chronotrigger_crono_sheet_8
+    21300018: Chronotrigger_crono_sheet_9
+    21300020: Chronotrigger_crono_sheet_10
+    21300022: Chronotrigger_crono_sheet_11
+    21300024: Chronotrigger_crono_sheet_12
+    21300026: Chronotrigger_crono_sheet_13
+    21300028: Chronotrigger_crono_sheet_14
+    21300030: Chronotrigger_crono_sheet_15
+    21300032: Chronotrigger_crono_sheet_16
+    21300034: Chronotrigger_crono_sheet_17
+    21300036: Chronotrigger_crono_sheet_18
+    21300038: Chronotrigger_crono_sheet_19
+    21300040: Chronotrigger_crono_sheet_20
+    21300042: Chronotrigger_crono_sheet_21
+    21300044: Chronotrigger_crono_sheet_22
+    21300046: Chronotrigger_crono_sheet_23
+    21300048: Chronotrigger_crono_sheet_24
+    21300050: Chronotrigger_crono_sheet_25
+    21300052: Chronotrigger_crono_sheet_26
+    21300054: Chronotrigger_crono_sheet_27
+    21300056: Chronotrigger_crono_sheet_28
+    21300058: Chronotrigger_crono_sheet_29
+    21300060: Chronotrigger_crono_sheet_30
+    21300062: Chronotrigger_crono_sheet_31
+    21300064: Chronotrigger_crono_sheet_32
+    21300066: Chronotrigger_crono_sheet_33
+    21300068: Chronotrigger_crono_sheet_34
+    21300070: Chronotrigger_crono_sheet_35
+    21300072: Chronotrigger_crono_sheet_36
+    21300074: Chronotrigger_crono_sheet_37
+    21300076: Chronotrigger_crono_sheet_38
+    21300078: Chronotrigger_crono_sheet_39
+    21300080: Chronotrigger_crono_sheet_40
+    21300082: Chronotrigger_crono_sheet_41
+    21300084: Chronotrigger_crono_sheet_42
+    21300086: Chronotrigger_crono_sheet_43
+    21300088: Chronotrigger_crono_sheet_44
+    21300090: Chronotrigger_crono_sheet_45
+    21300092: Chronotrigger_crono_sheet_46
+    21300094: Chronotrigger_crono_sheet_47
+    21300096: Chronotrigger_crono_sheet_48
+    21300098: Chronotrigger_crono_sheet_49
+    21300100: Chronotrigger_crono_sheet_50
+    21300102: Chronotrigger_crono_sheet_51
+    21300104: Chronotrigger_crono_sheet_52
+    21300106: Chronotrigger_crono_sheet_53
+    21300108: Chronotrigger_crono_sheet_54
+    21300110: Chronotrigger_crono_sheet_55
+    21300112: Chronotrigger_crono_sheet_56
+    21300114: Chronotrigger_crono_sheet_57
+    21300116: Chronotrigger_crono_sheet_58
+    21300118: Chronotrigger_crono_sheet_59
+    21300120: Chronotrigger_crono_sheet_60
+    21300122: Chronotrigger_crono_sheet_61
+    21300124: Chronotrigger_crono_sheet_62
+    21300126: Chronotrigger_crono_sheet_63
+    21300128: Chronotrigger_crono_sheet_64
+    21300130: Chronotrigger_crono_sheet_65
+    21300132: Chronotrigger_crono_sheet_66
+    21300134: Chronotrigger_crono_sheet_67
+    21300136: Chronotrigger_crono_sheet_68
+    21300138: Chronotrigger_crono_sheet_69
+    21300140: Chronotrigger_crono_sheet_70
+    21300142: Chronotrigger_crono_sheet_71
+    21300144: Chronotrigger_crono_sheet_72
+    21300146: Chronotrigger_crono_sheet_73
+    21300148: Chronotrigger_crono_sheet_74
+    21300150: Chronotrigger_crono_sheet_75
+    21300152: Chronotrigger_crono_sheet_76
+    21300154: Chronotrigger_crono_sheet_77
+    21300156: Chronotrigger_crono_sheet_78
+    21300158: Chronotrigger_crono_sheet_79
+    21300160: Chronotrigger_crono_sheet_80
+    21300162: Chronotrigger_crono_sheet_81
+    21300164: Chronotrigger_crono_sheet_82
+    21300166: Chronotrigger_crono_sheet_83
+    21300168: Chronotrigger_crono_sheet_84
+    21300170: Chronotrigger_crono_sheet_85
+    21300172: Chronotrigger_crono_sheet_86
+    21300174: Chronotrigger_crono_sheet_87
+    21300176: Chronotrigger_crono_sheet_88
+    21300178: Chronotrigger_crono_sheet_89
+    21300180: Chronotrigger_crono_sheet_90
+    21300182: Chronotrigger_crono_sheet_91
+    21300184: Chronotrigger_crono_sheet_92
+    21300186: Chronotrigger_crono_sheet_93
+    21300188: Chronotrigger_crono_sheet_94
+    21300190: Chronotrigger_crono_sheet_95
+    21300192: Chronotrigger_crono_sheet_96
+    21300194: Chronotrigger_crono_sheet_97
+    21300196: Chronotrigger_crono_sheet_98
+    21300198: Chronotrigger_crono_sheet_99
+    21300200: Chronotrigger_crono_sheet_100
+    21300202: Chronotrigger_crono_sheet_101
+    21300204: Chronotrigger_crono_sheet_102
+    21300206: Chronotrigger_crono_sheet_103
+    21300208: Chronotrigger_crono_sheet_104
+    21300210: Chronotrigger_crono_sheet_105
+    21300212: Chronotrigger_crono_sheet_106
+    21300214: Chronotrigger_crono_sheet_107
+    21300216: Chronotrigger_crono_sheet_108
+    21300218: Chronotrigger_crono_sheet_109
+    21300220: Chronotrigger_crono_sheet_110
+    21300222: Chronotrigger_crono_sheet_111
+    21300224: Chronotrigger_crono_sheet_112
+    21300226: Chronotrigger_crono_sheet_113
+    21300228: Chronotrigger_crono_sheet_114
+    21300230: Chronotrigger_crono_sheet_115
+    21300232: Chronotrigger_crono_sheet_116
+    21300234: Chronotrigger_crono_sheet_117
+    21300236: Chronotrigger_crono_sheet_118
+    21300238: Chronotrigger_crono_sheet_119
+    21300240: Chronotrigger_crono_sheet_120
+    21300242: Chronotrigger_crono_sheet_121
+    21300244: Chronotrigger_crono_sheet_122
+    21300246: Chronotrigger_crono_sheet_123
+    21300248: Chronotrigger_crono_sheet_124
+    21300250: Chronotrigger_crono_sheet_125
+    21300252: Chronotrigger_crono_sheet_126
+    21300254: Chronotrigger_crono_sheet_127
+    21300256: Chronotrigger_crono_sheet_128
+    21300258: Chronotrigger_crono_sheet_129
+    21300260: Chronotrigger_crono_sheet_130
+    21300262: Chronotrigger_crono_sheet_131
+    21300264: Chronotrigger_crono_sheet_132
+    21300266: Chronotrigger_crono_sheet_133
+    21300268: Chronotrigger_crono_sheet_134
+    21300270: Chronotrigger_crono_sheet_135
+    21300272: Chronotrigger_crono_sheet_136
+    21300274: Chronotrigger_crono_sheet_137
+    21300276: Chronotrigger_crono_sheet_138
+    21300278: Chronotrigger_crono_sheet_139
+    21300280: Chronotrigger_crono_sheet_140
+    21300282: Chronotrigger_crono_sheet_141
+    21300284: Chronotrigger_crono_sheet_142
+    21300286: Chronotrigger_crono_sheet_143
+    21300288: Chronotrigger_crono_sheet_144
+    21300290: Chronotrigger_crono_sheet_145
+    21300292: Chronotrigger_crono_sheet_146
+    21300294: Chronotrigger_crono_sheet_147
+    21300296: Chronotrigger_crono_sheet_148
+    21300298: Chronotrigger_crono_sheet_149
+    21300300: Chronotrigger_crono_sheet_150
+    21300302: Chronotrigger_crono_sheet_151
+    21300304: Chronotrigger_crono_sheet_152
+    21300306: Chronotrigger_crono_sheet_153
+    21300308: Chronotrigger_crono_sheet_154
+    21300310: Chronotrigger_crono_sheet_155
+    21300312: Chronotrigger_crono_sheet_156
+    21300314: Chronotrigger_crono_sheet_157
+    21300316: Chronotrigger_crono_sheet_158
+    21300318: Chronotrigger_crono_sheet_159
+    21300320: Chronotrigger_crono_sheet_160
+    21300322: Chronotrigger_crono_sheet_161
+    21300324: Chronotrigger_crono_sheet_162
+    21300326: Chronotrigger_crono_sheet_163
+    21300328: Chronotrigger_crono_sheet_164
+    21300330: Chronotrigger_crono_sheet_165
+    21300332: Chronotrigger_crono_sheet_166
+    21300334: Chronotrigger_crono_sheet_167
+    21300336: Chronotrigger_crono_sheet_168
+    21300338: Chronotrigger_crono_sheet_169
+    21300340: Chronotrigger_crono_sheet_170
+    21300342: Chronotrigger_crono_sheet_171
+    21300344: Chronotrigger_crono_sheet_172
+    21300346: Chronotrigger_crono_sheet_173
+    21300348: Chronotrigger_crono_sheet_174
+    21300350: Chronotrigger_crono_sheet_175
+    21300352: Chronotrigger_crono_sheet_176
+    21300354: Chronotrigger_crono_sheet_177
+    21300356: Chronotrigger_crono_sheet_178
+    21300358: Chronotrigger_crono_sheet_179
+    21300360: Chronotrigger_crono_sheet_180
+    21300362: Chronotrigger_crono_sheet_181
+    21300364: Chronotrigger_crono_sheet_182
+    21300366: Chronotrigger_crono_sheet_183
+    21300368: Chronotrigger_crono_sheet_184
+    21300370: Chronotrigger_crono_sheet_185
+    21300372: Chronotrigger_crono_sheet_186
+    21300374: Chronotrigger_crono_sheet_187
+    21300376: Chronotrigger_crono_sheet_188
+    21300378: Chronotrigger_crono_sheet_189
+    21300380: Chronotrigger_crono_sheet_190
+    21300382: Chronotrigger_crono_sheet_191
+    21300384: Chronotrigger_crono_sheet_192
+    21300386: Chronotrigger_crono_sheet_193
+    21300388: Chronotrigger_crono_sheet_194
+    21300390: Chronotrigger_crono_sheet_195
+    21300392: Chronotrigger_crono_sheet_196
+    21300394: Chronotrigger_crono_sheet_197
+    21300396: Chronotrigger_crono_sheet_198
+    21300398: Chronotrigger_crono_sheet_199
+    21300400: Chronotrigger_crono_sheet_200
+    21300402: Chronotrigger_crono_sheet_201
+    21300404: Chronotrigger_crono_sheet_202
+    21300406: Chronotrigger_crono_sheet_203
+    21300408: Chronotrigger_crono_sheet_204
+    21300410: Chronotrigger_crono_sheet_205
+    21300412: Chronotrigger_crono_sheet_206
+    21300414: Chronotrigger_crono_sheet_207
+    21300416: Chronotrigger_crono_sheet_208
+    21300418: Chronotrigger_crono_sheet_209
+    21300420: Chronotrigger_crono_sheet_210
+    21300422: Chronotrigger_crono_sheet_211
+    21300424: Chronotrigger_crono_sheet_212
+    21300426: Chronotrigger_crono_sheet_213
+    21300428: Chronotrigger_crono_sheet_214
+    21300430: Chronotrigger_crono_sheet_215
+    21300432: Chronotrigger_crono_sheet_216
+    21300434: Chronotrigger_crono_sheet_217
+    21300436: Chronotrigger_crono_sheet_218
+    21300438: Chronotrigger_crono_sheet_219
+    21300440: Chronotrigger_crono_sheet_220
+    21300442: Chronotrigger_crono_sheet_221
+    21300444: Chronotrigger_crono_sheet_222
+    21300446: Chronotrigger_crono_sheet_223
+    21300448: Chronotrigger_crono_sheet_224
+    21300450: Chronotrigger_crono_sheet_225
+    21300452: Chronotrigger_crono_sheet_226
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Chronotrigger_crono_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1025
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 24}
+        - {x: -24, y: -24}
+        - {x: 24, y: -24}
+        - {x: 24, y: 24}
+    - name: Chronotrigger_crono_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1011
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 28}
+        - {x: -16, y: -28}
+        - {x: 16, y: -28}
+        - {x: 16, y: 28}
+    - name: Chronotrigger_crono_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1042
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1042
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1043
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1042
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1043
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 1043
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1044
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1043
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1001
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1002
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1003
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1003
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 1003
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1002
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1003
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 984
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1003
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 963
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 962
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 962
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 962
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 962
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 962
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 962
+        width: 20
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 963
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 963
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 924
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 924
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 924
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 922
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 923
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 923
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 923
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 923
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 924
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 924
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 924
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 882
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 882
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 882
+        width: 19
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 882
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 882
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 863
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 882
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 885
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 885
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 885
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 885
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 842
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 843
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 843
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 842
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 842
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 842
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 845
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 846
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 846
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 846
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 803
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 812
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 812
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 802
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 802
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 802
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 786
+        width: 16
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 789
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 20}
+        - {x: -17.5, y: -6}
+        - {x: -13.5, y: -20}
+        - {x: 17.5, y: -20}
+        - {x: 17.5, y: 16}
+        - {x: 4.5, y: 20}
+    - name: Chronotrigger_crono_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 804
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_70
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 791
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_71
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 763
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 761
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_73
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 771
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_74
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 765
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_75
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 765
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_76
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 765
+        width: 20
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_77
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 739
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_78
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 735
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_79
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 745
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_80
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 735
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 723
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_82
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 721
+        width: 16
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_83
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 731
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_84
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 721
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_85
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 723
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_86
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 724
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_87
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 723
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_88
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 699
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_89
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 704
+        width: 19
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_90
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 682
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_91
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 683
+        width: 20
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_92
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 678
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_93
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 679
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_94
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 679
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_95
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 679
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_96
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 663
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_97
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 694
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_98
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 694
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_99
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 642
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_100
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 643
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_101
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 642
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_102
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 642
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_103
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 642
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_104
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 654
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_105
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 665
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_106
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 654
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_107
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 602
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_108
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 603
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_109
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 602
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_110
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 603
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_111
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 603
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_112
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 611
+        width: 22
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_113
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 613
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_114
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 625
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_115
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 613
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_116
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 563
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_117
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 563
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_118
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 583
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_119
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 565
+        width: 15
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_120
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 583
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_121
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 562
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_122
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 564
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_123
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 562
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_124
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 564
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_125
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 581
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 18}
+        - {x: -10, y: 17}
+        - {x: -16, y: 5}
+        - {x: -16, y: -18}
+        - {x: -3, y: -18}
+        - {x: 3, y: -14}
+        - {x: 16, y: 10}
+        - {x: 16, y: 18}
+    - name: Chronotrigger_crono_sheet_126
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 527
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_127
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 528
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_128
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 532
+        width: 8
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_129
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 522
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_130
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 523
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_131
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 523
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_132
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 523
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_133
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 520
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_134
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 523
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_135
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 523
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13, y: 16}
+        - {x: -16, y: 15}
+        - {x: -16, y: -16}
+        - {x: 11, y: -16}
+        - {x: 16, y: -3}
+        - {x: 16, y: 11}
+        - {x: 1, y: 16}
+    - name: Chronotrigger_crono_sheet_136
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 482
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_137
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 483
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_138
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 483
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_139
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 483
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_140
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 483
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_141
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 483
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_142
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 483
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_143
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 483
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_144
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 442
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_145
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 442
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_146
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 443
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_147
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 442
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_148
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 442
+        width: 20
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_149
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 444
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_150
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 442
+        width: 21
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_151
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 444
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_152
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 402
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_153
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 403
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_154
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 402
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_155
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 403
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_156
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 403
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_157
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 403
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_158
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 403
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_159
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 403
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_160
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 363
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_161
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 363
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_162
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 363
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_163
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 363
+        width: 15
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_164
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 358
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_165
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 362
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 17}
+        - {x: -19.5, y: 4}
+        - {x: -19.5, y: -17}
+        - {x: 6.5, y: -17}
+        - {x: 19.5, y: 8}
+        - {x: 19.5, y: 17}
+    - name: Chronotrigger_crono_sheet_166
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 359
+        width: 16
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_167
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 362
+        width: 39
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 17}
+        - {x: -14.5, y: 17}
+        - {x: -19.5, y: 16}
+        - {x: -19.5, y: 9}
+        - {x: 0.5, y: -17}
+        - {x: 19.5, y: -17}
+        - {x: 19.5, y: 7}
+        - {x: 16.5, y: 14}
+    - name: Chronotrigger_crono_sheet_168
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 322
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_169
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 322
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_170
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 323
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_171
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 322
+        width: 14
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_172
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 315
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_173
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 320
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_174
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 322
+        width: 15
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_175
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 320
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_176
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 282
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_177
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 283
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_178
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 282
+        width: 16
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_179
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 283
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_180
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 267
+        width: 14
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_181
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 281
+        width: 56
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_182
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 265
+        width: 16
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_183
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 281
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_184
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 243
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_185
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 243
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_186
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 243
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_187
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 243
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_188
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 229
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_189
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 229
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_190
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 230
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_191
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 229
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_192
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 202
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_193
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 203
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_194
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 200
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_195
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 203
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_196
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 189
+        width: 18
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_197
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 189
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_198
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 190
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_199
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 189
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_200
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 162
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_201
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 163
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_202
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 160
+        width: 17
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_203
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 163
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_204
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 144
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_205
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 149
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_206
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 148
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_207
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 149
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_208
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_209
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 124
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_210
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 123
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_211
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 124
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_212
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 103
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_213
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 103
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_214
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 83
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_215
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 83
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_216
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 83
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_217
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 53
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_218
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 53
+        width: 21
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_219
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 41
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_220
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 41
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_221
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 43
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_222
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 41
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_223
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 0
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_224
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_225
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Chronotrigger_crono_sheet_226
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 0
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
